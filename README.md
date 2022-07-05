@@ -1,4 +1,3 @@
-# situ
 
 ## Project setup
 ```
